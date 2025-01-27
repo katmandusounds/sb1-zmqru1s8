@@ -42,6 +42,10 @@ function App() {
         </div>
 
         {/* Latest Releases */}
+
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2pUGpqLvcCBOEuO92eXLMS?utm_source=generator" width="100%" height="152" loading="lazy"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jHFEFDJLEu0?si=6gpEGqUV4ojdi8LY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
         <section className="mb-16">
           <h2 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-teal-400 mb-8">
             Latest Releases
